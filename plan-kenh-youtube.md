@@ -1,7 +1,5 @@
 # Plan Kênh YouTube — Tư Duy Thiết Kế UI/UX
 
-> Tài liệu làm việc. Ngày tạo: 2026-04-17.
-
 ---
 
 ## PHẦN 1 — Kế hoạch xây kênh
@@ -12,17 +10,15 @@
 Format chữ ký: mỗi video là **1 câu hỏi ngược** mà không ai ngờ tới, rồi dẫn khán giả đến 1 nguyên tắc nền tảng. Ví dụ: *"Tại sao khoảng trống lại đắt hơn pixel?"* — người xem đến vì tò mò, ở lại vì được soi sáng.
 
 ### Thông số kênh
-- **Độ dài:** 4–7 phút / video (sweet spot cho animation narration)
-- **Tần suất:** 1 video/tuần (52 video/năm, bền vững)
+- **Độ dài:** 1000 từ / video (sweet spot cho animation narration)
 - **Style:** animation 2D flat / motion graphics, giọng AI kể chuyện điềm đạm, pacing chậm–vừa
-- **Tham chiếu style:** Exurb1a (giọng kể), Vox (case study)
 
 ### Cấu trúc 3 hồi cho mọi video
-1. **Hook (0:00–0:20)** — câu hỏi ngược / quan sát đời thường bất ngờ
-2. **Mystery (0:20–1:00)** — tại sao điều đó xảy ra?
-3. **Principle (1:00–4:00)** — nguyên tắc tư duy đứng sau
-4. **Payoff (4:00–5:30)** — áp dụng vào thiết kế
-5. **Close (5:30–6:00)** — câu kết triết lý, CTA nhẹ
+1. **Hook** — câu hỏi ngược / quan sát đời thường bất ngờ
+2. **Mystery** — tại sao điều đó xảy ra?
+3. **Principle** — nguyên tắc tư duy đứng sau
+4. **Payoff** — áp dụng vào thiết kế
+5. **Close** — câu kết triết lý, CTA nhẹ
 
 ### 4 trụ nội dung
 | Trụ | % | Mục tiêu |

@@ -1,121 +1,79 @@
-# Script 01 — Ba phần trăm giây
+# Ba phần trăm giây - khoảng thời gian bạn đánh giá một trang web
 
-**Chủ đề:** First impression — bộ não quyết định tin một trang web trong 50ms
-**Độ dài ước tính:** 5 phút | ~700 từ
+## Hook (0:00 - 0:20)
 
----
+Bạn thử nhớ lại lần gần nhất mình click vào một trang web lạ.
 
-Năm phần trăm giây.
+Chưa đọc chữ nào. Chưa cuộn xuống. Chưa hiểu họ bán gì.
 
-Đó là khoảng thời gian một người quyết định — họ có tin trang web của bạn không.
+Nhưng trong đầu bạn đã có một câu trả lời rồi. Trang này tin được. Hay trang này... kỳ kỳ.
 
-Trong năm phần trăm giây — bạn không đọc được chữ nào.
-Bạn chưa kịp hiểu sản phẩm làm gì.
-Bạn thậm chí chưa kịp nhận ra mình đang nhìn vào cái gì.
+Cảm giác đó đến nhanh đến mức bạn không kịp nhận ra. Ba phần trăm giây. Đó là tất cả thời gian bạn cần để đánh giá xong một trang web.
 
-Nhưng bộ não của bạn — đã quyết định xong.
+## Mystery
 
----
+Ba phần trăm giây. Nhanh đến mức nào?
 
-Các nhà nghiên cứu đã làm thí nghiệm này hàng chục lần.
+Một cái chớp mắt mất khoảng một phần mười giây. Nghĩa là bạn đánh giá xong một trang web trước khi chớp mắt xong một lần.
 
-Họ cho người tham gia nhìn một trang web — chỉ trong năm mươi mili giây.
-Chớp mắt một cái.
-Rồi che màn hình lại.
+Các nhà khoa học ở đại học Carleton từng làm một thí nghiệm. Họ cho người tham gia xem ảnh chụp hàng trăm trang web, mỗi ảnh chỉ hiện trong một khoảnh khắc cực ngắn. Rồi hỏi: trang nào đẹp, trang nào xấu?
 
-Sau đó họ hỏi: "Bạn thấy trang này thế nào?"
+Điều kỳ lạ là kết quả rất ổn định. Dù chỉ nhìn trong một phần hai mươi giây, người ta vẫn đưa ra đánh giá giống hệt như khi được nhìn thoải mái.
 
-Và đây là phần đáng ngạc nhiên.
+Vậy chuyện gì xảy ra trong bộ não, trong khoảnh khắc ngắn ngủi đó?
 
-Đánh giá sau 50 mili giây — gần như trùng khớp với đánh giá sau khi họ xem kỹ cả phút.
+## Principle
 
----
+Ở đây có một điều quan trọng bạn cần hiểu. Bộ não của bạn không phải một cái máy. Nó là hai cái máy.
 
-Vì sao?
+Cái thứ nhất chạy rất nhanh. Nó không suy nghĩ, nó cảm nhận. Nó không đọc chữ, nó nhìn hình. Nó là phần não đã tồn tại từ thời tổ tiên chúng ta còn sống trong rừng. Thời mà nhìn thấy một cái bóng trong bụi cây là phải quyết định chạy hay đứng, trong tích tắc.
 
-Vì bộ não bạn — không phân tích.
+Cái thứ hai chậm hơn nhiều. Nó mới là phần suy luận, đọc chữ, cân nhắc lợi hại. Nó chính là phần bạn đang dùng để nghe video này.
 
-Nó nhận dạng.
+Khi một trang web mở ra, cái não nhanh luôn đi trước. Nó không đọc tiêu đề. Nó nhìn vào ba thứ. Màu sắc tổng thể. Khoảng trống giữa các phần. Và sự cân đối của bố cục.
 
-Suốt cả đời, bạn đã nhìn hàng triệu trang web, hàng triệu giao diện.
-Não bạn đã học được — một cách không ý thức —
-cái gì "trông giống" một trang đáng tin.
+Và trong ba phần trăm giây, nó đã kết luận.
 
-Cân đối. Đủ khoảng trống. Màu không chói. Font dễ đọc.
+Người ta gọi quá trình này là visceral processing. Dịch thô là xử lý ở mức bản năng. Nghe hơi lạ tai, nhưng ý nghĩa rất đúng. Bởi vì phản ứng này không đi qua lý trí. Nó đi thẳng qua cơ thể. Giống như khi bạn nhìn thấy một món ăn trình bày đẹp, bạn đã thấy ngon trước cả khi nếm.
 
-Những tín hiệu này không cần đọc — chỉ cần *cảm*.
+Vấn đề là thế này. Khi cái não nhanh đã quyết định, cái não chậm hầu như chỉ đi tìm bằng chứng để đồng ý với nó.
 
----
+Nếu ấn tượng đầu tiên là "trang này đáng tin", bạn sẽ đọc nội dung với thái độ cởi mở. Bạn sẽ cho họ cơ hội thuyết phục bạn.
 
-Khi bạn mở một trang rối rắm, nhiều màu, nhiều popup — một phản ứng hoá học trong não bạn kích hoạt.
+Nếu ấn tượng đầu tiên là "trang này kỳ kỳ", bạn sẽ đọc với thái độ nghi ngờ. Mỗi lỗi nhỏ đều trở thành bằng chứng chống lại họ.
 
-Không phải "tôi không thích."
+Đây là lý do vì sao hai trang web có nội dung gần giống nhau, giá gần giống nhau, sản phẩm gần giống nhau, mà một cái bán được, một cái không.
 
-Mà là — "tôi không an toàn."
+Không phải vì nội dung khác. Mà vì cảm giác đầu tiên khác.
 
-Và khi bạn thấy không an toàn —
-bạn rời đi.
+Và đây là phần đôi khi làm designer đau lòng. Người dùng không đánh giá trang web của bạn dựa trên việc bạn đã làm việc vất vả ra sao. Họ không biết bạn viết bao nhiêu dòng code. Họ không biết bạn đã nghĩ về họ bao nhiêu đêm.
 
-Trước cả khi đọc một chữ.
+Họ chỉ biết cảm giác đầu tiên. Và cảm giác đầu tiên đến trong ba phần trăm giây.
 
----
+## Payoff
 
-Điều này có một hệ quả lạnh gáy.
+Vậy làm gì với ba phần trăm giây này?
 
-Bạn có thể có sản phẩm tốt nhất thế giới.
-Bạn có thể trả tiền quảng cáo để đưa người đến.
+Điều đầu tiên bạn phải hiểu. Trang web của bạn không cần đẹp. Nó cần đáng tin.
 
-Nhưng nếu trong 50 mili giây đầu — giao diện của bạn "cảm thấy" không đúng —
-mọi thứ sau đó đều không còn quan trọng.
+Đẹp là chuyện phong cách. Đáng tin là chuyện tín hiệu. Và cái não nhanh rất giỏi đọc tín hiệu.
 
----
+Nó nhìn vào khoảng trống. Một trang nhồi nhét mọi thứ trông giống như một người nói luôn mồm, không đáng tin. Một trang có khoảng thở trông giống như một người nói chậm rãi, có kiểm soát.
 
-Vậy trong 50 mili giây đó — bộ não thực sự nhìn thấy gì?
+Nó nhìn vào sự nhất quán. Một trang dùng hai kiểu chữ không hợp nhau. Ba sắc xanh lệch nhau một chút. Nút bấm chỗ thì tròn, chỗ thì vuông. Những chi tiết nhỏ đó nói lên một điều. Người làm ra trang này không chăm chút cho từng chi tiết. Và nếu họ không chăm chút cho thứ bạn nhìn thấy, liệu họ có chăm chút cho thứ bạn không nhìn thấy không?
 
-Không phải nội dung.
-Không phải thông điệp.
-Không phải lợi thế cạnh tranh của bạn.
+Nó nhìn vào sự cân đối. Bố cục lệch sang một bên. Ảnh bị vỡ nét. Chữ cắt ngang giữa dòng. Những lỗi đó nói lên một điều. Trang này được làm cho xong, không được làm cho tới. Và một thứ chỉ được làm cho xong thì khó mà đủ đáng tin để bạn giao tiền vào.
 
-Nó thấy — tổng hoà của bốn thứ:
-màu sắc,
-sự cân đối,
-khoảng trống,
-và mật độ thông tin.
+Điều thứ hai cần nhớ. Ba phần trăm giây không công bằng. Nhưng nó là thực tế.
 
-Bốn thứ đó.
+Bạn có thể bực vì người dùng không chịu đọc. Hoặc bạn có thể chấp nhận rằng họ đã cho bạn ba phần trăm giây. Và bạn phải dùng nó cho thật khôn ngoan.
 
-Không phải copywriting. Không phải tính năng. Không phải giá.
+Khôn ngoan là sao? Đừng cố nói hết mọi thứ ngay giây đầu tiên. Hãy để ấn tượng đầu tiên nói một câu duy nhất. "Chỗ này ổn. Ở lại thêm đi".
 
-Bốn thứ đó quyết định — người dùng có ở lại để đọc chữ đầu tiên hay không.
+## Close
 
----
+Vậy nên lần tới, khi bạn mở một trang web mới và cảm thấy ngay lập tức rằng mình tin nó, hãy biết rằng đó không phải ngẫu nhiên. Có người đã thiết kế cảm giác đó cho bạn.
 
-Đa số chúng ta mất hàng giờ viết tiêu đề.
-Hàng ngày chỉnh sửa câu copy.
-Hàng tuần tinh chỉnh tính năng.
+Và lần tới khi chính bạn làm một trang web, hãy nhớ điều này. Bạn không có năm giây để thuyết phục ai cả. Bạn chỉ có ba phần trăm giây.
 
-Nhưng khoảng trống?
-Cân đối?
-Hệ màu?
-
-Chúng ta làm "đại khái" trong 30 phút — rồi chuyển qua việc khác.
-
-Và đó là sai lầm lớn nhất.
-
-Vì người dùng sẽ không bao giờ đọc đến tiêu đề hoàn hảo của bạn —
-nếu họ đã rời đi trong 50 mili giây.
-
----
-
-Bạn có năm phần trăm giây.
-
-Đó không phải thời gian để thuyết phục.
-Đó là thời gian để — *không bị loại*.
-
-Và tin vui là:
-trong năm phần trăm giây đó,
-người dùng không đòi hỏi thiên tài.
-
-Họ chỉ đòi hỏi — trang của bạn *trông giống* một nơi đáng tin.
-
-Và điều đó — bạn hoàn toàn có thể thiết kế được.
+Thiết kế không thuyết phục bằng logic. Nó thuyết phục bằng cảm giác đầu tiên.
